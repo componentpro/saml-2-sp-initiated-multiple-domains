@@ -1,0 +1,7 @@
+E:\ComponentPro\UltimateStudio v6.1.412112\Samples\Saml\Web\CS\Saml2MultipleSPs\IdentityProvider\bin\IdentityProvider.dll
+E:\ComponentPro\UltimateStudio v6.1.412112\Samples\Saml\Web\CS\Saml2MultipleSPs\IdentityProvider\bin\IdentityProvider.pdb
+E:\ComponentPro\UltimateStudio v6.1.412112\Samples\Saml\Web\CS\Saml2MultipleSPs\IdentityProvider\bin\ComponentPro.Saml.dll
+E:\ComponentPro\UltimateStudio v6.1.412112\Samples\Saml\Web\CS\Saml2MultipleSPs\IdentityProvider\bin\ComponentPro.Saml.xml
+E:\ComponentPro\UltimateStudio v6.1.412112\Samples\Saml\Web\CS\Saml2MultipleSPs\IdentityProvider\obj\Release\ResolveAssemblyReference.cache
+E:\ComponentPro\UltimateStudio v6.1.412112\Samples\Saml\Web\CS\Saml2MultipleSPs\IdentityProvider\obj\Release\IdentityProvider.dll
+E:\ComponentPro\UltimateStudio v6.1.412112\Samples\Saml\Web\CS\Saml2MultipleSPs\IdentityProvider\obj\Release\IdentityProvider.pdb

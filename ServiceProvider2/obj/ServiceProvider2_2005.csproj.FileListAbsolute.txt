@@ -1,0 +1,7 @@
+E:\ComponentPro\UltimateStudio v6.1.412112\Samples\Saml\Web\CS\Saml2MultipleSPs\ServiceProvider2\bin\ServiceProvider.dll
+E:\ComponentPro\UltimateStudio v6.1.412112\Samples\Saml\Web\CS\Saml2MultipleSPs\ServiceProvider2\bin\ServiceProvider.pdb
+E:\ComponentPro\UltimateStudio v6.1.412112\Samples\Saml\Web\CS\Saml2MultipleSPs\ServiceProvider2\bin\ComponentPro.Saml.dll
+E:\ComponentPro\UltimateStudio v6.1.412112\Samples\Saml\Web\CS\Saml2MultipleSPs\ServiceProvider2\bin\ComponentPro.Saml.xml
+E:\ComponentPro\UltimateStudio v6.1.412112\Samples\Saml\Web\CS\Saml2MultipleSPs\ServiceProvider2\obj\Release\ResolveAssemblyReference.cache
+E:\ComponentPro\UltimateStudio v6.1.412112\Samples\Saml\Web\CS\Saml2MultipleSPs\ServiceProvider2\obj\Release\ServiceProvider.dll
+E:\ComponentPro\UltimateStudio v6.1.412112\Samples\Saml\Web\CS\Saml2MultipleSPs\ServiceProvider2\obj\Release\ServiceProvider.pdb
